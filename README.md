@@ -25,3 +25,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![FoodZoneDet](https://github.com/user-attachments/assets/a1e13687-b0e6-40bb-9b29-0aeec8293860)
+![FoodZoneCart](https://github.com/user-attachments/assets/07f39ac6-5fd2-4370-bdd5-34a4a16059f4)
+![FoodZone](https://github.com/user-attachments/assets/f351520d-a8af-415c-8393-5ecba856d428)
+
